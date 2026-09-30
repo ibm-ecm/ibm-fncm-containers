@@ -6,10 +6,11 @@ requests~=2.34.0
 xmltodict~=1.0.4
 PyYAML~=6.0.2
 tomlkit~=0.15.0
-cryptography~=49.0.0
+cryptography~=50.0.0
 urllib3~=2.7.0
-pyOpenSSL~=26.3.0
+pyOpenSSL~=26.4.0
 Jinja2~=3.1.6
 packaging~=26.2
 ruamel.yaml==0.19.1
 typing-extensions==4.16.0
+click~=8.4.2
